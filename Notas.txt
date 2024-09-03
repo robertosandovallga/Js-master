@@ -1,0 +1,5 @@
+Temas: 
+
+Modo estricto = 'use' strict'
+VAR : es para variables globales
+Let :  es para variables locales
