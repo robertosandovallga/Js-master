@@ -5,19 +5,19 @@
 var numero = 40;
 console.log(numero); // valor 40
 
-if(true){
+if (true) {
     var numero = 50;
     console.log(numero); //valor 50
 }
 console.log(numero); // value 50
 
 // prueba con Let
-var texto= "Curso JS roberto sandoval";
+var texto = "Curso JS roberto sandoval";
 console.log(texto);
 
-if(true) {
+if (true) {
     let texto = "Curso numero 3";
-    console.log(texto); 
+    console.log(texto);
 }
 
-console.log (texto);
+console.log(texto);
