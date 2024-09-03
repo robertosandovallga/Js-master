@@ -3,3 +3,15 @@ Temas:
 Modo estricto = 'use' strict'
 VAR : es para variables globales
 Let :  es para variables locales
+
+Entero
+boleano true false
+
+/* console.log(string(numeroFalso)+7); el contenido de la variable lo coinveirte a texto  */
+
+//Para saber cual es el tipo de datos de una variable se usa el operador tipeof
+
+/* console.log(tipeof numeroFalso);
+ */
+
+
