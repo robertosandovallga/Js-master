@@ -35,8 +35,8 @@ numeroFalso = "33.4";
 console.log(numeroFalso);
 console.log(parseInt(numeroFalso)+7); // parseInt convierte un numero a entero
 console.log(parseFloat(numeroFalso)+7); //Convierte un numero a un numero decimal 
-console.log(String(numeroFalso)+7); // el contenido de la variable lo convierte a texto
 
+console.log(String(numeroFalso)+7); // el contenido de la variable lo convierte a texto
 
 console.log(typeof numeroFalso); // typeof operador que se usa para saber cual es el tipo de datos de una variable
 
