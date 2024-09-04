@@ -22,7 +22,7 @@ if (edad1 > 12) {
 // == es que son iguales aunque sean de tipos de datos distintos
 // === es que son iguales y son del mismo tipo de datos
 //!= diferente que
-// maroque o igual: >=
+// maayor que o igual: >=
 /* menos o igual: <=
 igual: ==
 distinto: != */
