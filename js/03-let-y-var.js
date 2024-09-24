@@ -4,7 +4,7 @@
 
 var numero = 40;
 console.log(numero); // valor 40
-
+debugger
 if (true) {
     var numero = 50;
     console.log(numero); //valor 50
@@ -21,3 +21,4 @@ if (true) {
 }
 
 console.log(texto);
+
